@@ -10,19 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8b9bb48-5f68-460c-9c37-5f5cfea7ce94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/viliuchenko.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/CRC25.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/CRC35.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/CRC55.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/CRC65.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/CRC75.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circle-Regular.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b8b9bb48-5f68-460c-9c37-5f5cfea7ce94" name="Default Changelist" comment="version1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
@@ -116,8 +106,17 @@
       <option name="presentableId" value="Default" />
       <updated>1604508249941</updated>
       <workItem from="1604508251362" duration="21800000" />
-      <workItem from="1604574517560" duration="4136000" />
+      <workItem from="1604574517560" duration="4917000" />
+      <workItem from="1604591795506" duration="5833000" />
     </task>
+    <task id="LOCAL-00001" summary="version1">
+      <created>1604579042256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604579042256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,12 +132,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version1" />
+    <option name="LAST_COMMIT_MESSAGE" value="version1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="261" key="Github.ShareDialog" timestamp="1604578664184">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="561" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1604578664184" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1604579058642">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604579058642" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604578794619">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

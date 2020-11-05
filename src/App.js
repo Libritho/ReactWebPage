@@ -50,6 +50,14 @@ function App() {
   });
 
   useEffect(() => {
+      fetch('https://reqres.in/api/users?page=2').then((response) => {
+          response.json().then(json => {
+              const url = json?.ad?.url
+              console.log(url)
+          })
+      })
+
+
     setTimeout(() => {
       setAnimationState({
         footer: 'footer visible',

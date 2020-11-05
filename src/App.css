@@ -153,7 +153,7 @@ li {
 .main-left {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   height: 100%;
   width: 50%;
   text-align: left;
@@ -165,12 +165,15 @@ li {
 }
 
 .company-title-container {
+  position: fixed;
   background-image: url("./header-background.png");
-  background-size: 115px;
+  background-size: 107px;
   background-repeat: no-repeat;
   background-position: left;
-  background-position-y: 40px;
-  padding: 25px;
+  background-position-y: 66px;
+  background-position-x: -9px;
+  padding: 42px;
+  margin-left: calc(20% - 42px);
 }
 
 .company-title-container h5 {
